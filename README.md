@@ -44,16 +44,18 @@ Aa &emsp;Change Font Size (6-72)
 *I* &nbsp; &emsp; ***Italic*** *Selected Text*         
 ~~S~~&nbsp; &emsp; Strikethrough ~~Selected Text~~           
 <>&emsp;`inline code`     
-**{}**&nbsp; &emsp; Code Block
-``````
-name = input("Mr. Comfy? ")
-print(f"Hi, {Mr. Comfy}!")
-``````            
-**H**&nbsp;&emsp; Heading / Title          
-●&nbsp; &emsp;Bullet Points        
-**1.**&nbsp; &emsp;Auto Numbered List        
-🔗&nbsp;&emsp;Hyperlink      
- **"**&nbsp; &emsp; Quote Text   
+**{}**&nbsp; &emsp; Code Block      
+          
+**H**&nbsp;&emsp; Heading / Title    
+
+●&nbsp; &emsp;Bullet Points  
+
+**1.**&nbsp; &emsp;Auto Numbered List 
+
+🔗&nbsp;&emsp;Hyperlink    
+
+ **"**&nbsp; &emsp; Quote Text 
+ 
 ---
      
 -&nbsp; &emsp; Horizontal rule 
