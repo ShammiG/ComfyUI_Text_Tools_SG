@@ -104,6 +104,9 @@ and custom order of apperance support and enable / disable option (no need to di
 <br>
 <br>
 
+● **This node uses markdown library of [Markdown-it](https://github.com/markdown-it/markdown-it)**
+<br>
+
 # Also checkout my other nodes: 
 [ComfyUI Simple Readable Metadata-SG](https://github.com/ShammiG/ComfyUI-Simple_Readable_Metadata-SG))
 <br>
