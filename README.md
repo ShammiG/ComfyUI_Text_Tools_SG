@@ -105,16 +105,6 @@ and custom order of apperance support and enable / disable option (no need to di
 <br>
 
 # Also checkout my other nodes: 
-[ComfyUI-Show-Clock-in-CMD-Console-SG](https://github.com/ShammiG/ComfyUI-Show-Clock-in-CMD-Console-SG)
-<br>
-
-<img width="1124" height="963" alt="gf" src="https://github.com/user-attachments/assets/963cf6be-6870-47df-a655-2a2a01164cdf" />
-<br>
-<br>
-
-
-<br>
-
 [ComfyUI Simple Readable Metadata-SG](https://github.com/ShammiG/ComfyUI-Simple_Readable_Metadata-SG))
 <br>
 
@@ -122,6 +112,18 @@ View Image Metadata of ComfyUI as well as of ForgeUI or Automatic 1111 generated
 <br>
 
 <img width="1464" height="953" alt="er" src="https://github.com/user-attachments/assets/d4d61233-d112-4d9d-a28a-062069e053a5" />
+<br>
+<br>
+
+[ComfyUI-Show-Clock-in-CMD-Console-SG](https://github.com/ShammiG/ComfyUI-Show-Clock-in-CMD-Console-SG)
+<br>
+
+This comfyUI node automatically intializes at startup and displays the clock timestammp in CMD console when Process starts and ends.
+<br>
+
+<img width="1124" height="963" alt="gf" src="https://github.com/user-attachments/assets/963cf6be-6870-47df-a655-2a2a01164cdf" />
+<br>
+
 
 # Appreciate and support my work on [Patreon](https://www.patreon.com/c/ShammiG)
 <br>
