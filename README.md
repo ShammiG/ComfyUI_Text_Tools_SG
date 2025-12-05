@@ -1,4 +1,18 @@
 # ComfyUI Text Tools SG
+
+#    ❗Attention❗
+**Switch Node 2.0 OFF, If comfyUI version 0.3.76 or newer**
+<br>
+
+![dd](https://github.com/user-attachments/assets/93e17ceb-225d-4121-9e97-a81bf0b734f7)
+
+**Reason:** With new ComfyUI update it changed the frontend from Lite graph rendering to Vue with **nodes 2.0**.         
+&emsp;&emsp;&emsp; &nbsp; So, now it requires rewriting and troubleshooting with about 2000 lines of code!      
+&emsp;&emsp;&emsp; &nbsp; which i am not currently leaned towards into.
+
+---
+Text Tools Nodes Info
+---
 **Text Editor node with Markdown editing** plus **quick shortcuts**, **Text Viewer node**, with extra features plus **Text Merge, Text Save and Load Text from anywhere** nodes.       
 **Also supports json and md formats**    
 <br>
