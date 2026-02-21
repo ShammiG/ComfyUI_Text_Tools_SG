@@ -111,7 +111,7 @@ and custom order of apperance support and enable / disable option (no need to di
        
 **2.** Clone this repository into your **ComfyUI/custom_nodes** directory:    
        
-    git clone https://github.com/ShammiG/ComfyUI-Image_Properties_SG.git
+    git clone https://github.com/ShammiG/ComfyUI_Text_Tools_SG
       
 **3.** **Restart ComfyUI**             
   Search and add the desired node to your workflow.
